@@ -34,87 +34,33 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?security=none&all
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%208
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.145:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%209
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%2010
-vless://e0106b16-1d2d-45bc-c306-e31f422d9221@136.244.87.191:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 839
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@134.209.230.121:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D1
+vless://65a792ae-a8a1-4892-9ca9-305886346f58@57.129.77.72:8080?security=reality&sni=chatgpt.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇩🇪%20Germany%20-%202
 vless://dcee3fe8-b71f-4486-c237-ec9cfdc506a5@192.248.187.157:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 44
-vless://8b635387-3704-488f-d21f-6879f9930940@45.77.53.7:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 669
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@164.92.246.201:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D21
-vless://e0106b16-1d2d-45bc-c306-e31f422d9221@95.179.240.237:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 205
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@192.248.182.69:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 337
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@159.89.108.68:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D10
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@104.248.27.154:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D25
+vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@45.76.86.61:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 955
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@136.244.93.189:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 549
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@199.247.7.149:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 591
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@142.93.160.250:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D18
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@159.89.108.68:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D10
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@178.128.195.160:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D9
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@64.227.122.159:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D25
+vless://dcee3fe8-b71f-4486-c237-ec9cfdc506a5@45.77.142.206:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 387
+vless://dcee3fe8-b71f-4486-c237-ec9cfdc506a5@95.179.246.145:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 584
+vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@80.240.21.74:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 966
+vless://8b635387-3704-488f-d21f-6879f9930940@45.76.92.126:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 27
+vless://8b635387-3704-488f-d21f-6879f9930940@80.240.18.131:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 80
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@140.82.39.203:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 211
 vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@138.197.181.183:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D5
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@164.90.218.160:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D11
-vless://dcee3fe8-b71f-4486-c237-ec9cfdc506a5@104.238.177.118:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 299
-vless://dcee3fe8-b71f-4486-c237-ec9cfdc506a5@95.179.246.145:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 584
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@178.128.195.160:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D9
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@159.223.25.165:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D18
-vless://e0106b16-1d2d-45bc-c306-e31f422d9221@199.247.7.149:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 591
-vless://8b635387-3704-488f-d21f-6879f9930940@80.240.18.131:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 80
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@64.227.122.159:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D25
-vless://8b635387-3704-488f-d21f-6879f9930940@136.244.83.186:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 23
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@164.92.246.201:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D21
 vless://8b635387-3704-488f-d21f-6879f9930940@199.247.4.229:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 436
-vless://8b635387-3704-488f-d21f-6879f9930940@45.76.92.126:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 27
-vless://dcee3fe8-b71f-4486-c237-ec9cfdc506a5@45.77.142.206:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 387
-vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@142.93.160.250:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D18
-vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@45.76.86.61:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 955
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@159.223.25.165:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D18
+vless://8b635387-3704-488f-d21f-6879f9930940@45.77.53.7:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 669
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@134.209.230.121:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D1
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@164.90.218.160:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D11
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@95.179.240.237:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 205
+vless://8b635387-3704-488f-d21f-6879f9930940@136.244.83.186:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 23
+vless://3a3e9c96-7bbc-4e25-ca44-7de75eb71100@104.248.27.154:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D25
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@136.244.87.191:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 839
+vless://dcee3fe8-b71f-4486-c237-ec9cfdc506a5@104.238.177.118:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 299
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@199.247.19.147:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany 85
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany%20PO
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.21:38388#hamedp71-1-🇻🇳
-ssr://MTA3LjE1MS4xODIuMjUzOjgwODA6b3JpZ2luOnJjNC1tZDU6cGxhaW46TVRSbVJsQnlZbVY2UlROSVJGcDZjMDFQY2pZLz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1oYW1lZHA3MS0yLeKAşilfhihv#
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.183:38388#hamedp71-3-🇻🇳
-trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#hamedp71-4-🇺🇸
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.74:38388#hamedp71-5-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.16:38388#hamedp71-6-🇻🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#hamedp71-7-🇷🇺
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.212:38388#hamedp71-8-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.34:38388#hamedp71-9-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.145:38388#hamedp71-10-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.154:38388#hamedp71-11-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.63:38388#hamedp71-12-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.36:38388#hamedp71-13-🇻🇳
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-14-🇯🇵
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.113:38388#hamedp71-15-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.42:38388#hamedp71-16-🇻🇳
-trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-17-🇯🇵
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.22:38388#hamedp71-18-🇻🇳
-trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-19-🇯🇵
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.215:38388#hamedp71-20-🇻🇳
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.226:38388#hamedp71-21-🇻🇳
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#hamedp71-22-🇯🇵
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.57:38388#hamedp71-24-🇻🇳
-trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-25-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?allowInsecure=0&sni=www.nintendogames.net#hamedp71-26-🇯🇵
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#hamedp71-28-🇩🇪
-trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-29-🇯🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#hamedp71-30-🇷🇺
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#hamedp71-32-🇫🇷
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-33-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-34-🇯🇵
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxODUuMTUzLjE5Ny41Ojk4OQ==#hamedp71-35-🇳🇱
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#hamedp71-36-🇺🇸
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.70:9097#hamedp71-37-🇩🇪
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-38-🇯🇵
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#hamedp71-39-🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@197.140.29.76:990#hamedp71-40-🇲🇺
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-41-🇯🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#hamedp71-43-🇨🇭
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-45-🇯🇵
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001#hamedp71-46-🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#hamedp71-65-🇨🇭
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.209:38388#hamedp71-66-🇻🇳
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#hamedp71-67-🇿🇦
-### 🇦🇲 ارمنستان
-### 🇦🇺 استرالیا
-### 🇧🇬 بلغارستان
-### 🇨🇦 کانادا
-vmess://b592cf1a-d92f-4dbd-9c1d-b76936a1609e@51.161.130.101:550?encryption=auto&security=none&fp=chrome&type=tcp#🇨🇦%20Canada%20-%201
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.83.228:443?encryption=auto&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&fp=chrome&type=ws&path=/linkvws#🇨🇦%20Canada%20-%202
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.83.227:443?encryption=auto&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&fp=chrome&type=ws&path=/linkvws&host=mankadmu.com#🇨🇦%20Canada%20-%203
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.83.228:443?encryption=auto&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&fp=chrome&type=ws&path=/linkvws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🇨🇦%20Canada%20-%204
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.83.228:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&fp=chrome&type=ws&path=/linkvws&host=f.khilei.com#🇨🇦%20Canada%20-%205
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.50.172:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&fp=chrome&type=ws&path=/linkvws&host=baradiha.com#🇨🇦%20Canada%20-%206
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.13.69:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&fp=chrome&type=ws&path=/linkvws&host=vkvd127.mycdn.me#🇨🇦%20Canada%20-%207
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.50.172:443?encryption=auto&security=tls&sni=baradiha.com&fp=chrome&type=ws&path=/linkvws&host=baradiha.com#🇨🇦%20Canada%20-%208
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.83.228:443?encryption=auto&security=tls&sni=15.235.83.228&fp=chrome&type=ws&path=/linkvws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🇨🇦%20Canada%20-%209
