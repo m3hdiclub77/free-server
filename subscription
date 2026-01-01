@@ -1,55 +1,7 @@
-hysteria2://@KevinZakarian@kevin.vpny.online:44001?alpn=&obfs=salamander&obfs-password=KevinZakarian&insecure=1#@KevinZakarian
-hysteria2://@KevinZakarian@keviny.vpny.online:33001?alpn=&obfs=salamander&obfs-password=KevinZakarian&insecure=1#@KevinZakarian
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visa.com:80?encryption=none&security=none&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V1_www.visa.com_80
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@cis.visa.com:8080?encryption=none&security=none&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V2_cis.visa.com_8080
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@africa.visa.com:8880?encryption=none&security=none&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V3_africa.visa.com_8880
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visa.com.sg:2052?encryption=none&security=none&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V4_www.visa.com.sg_2052
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visaeurope.at:2082?encryption=none&security=none&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V5_www.visaeurope.at_2082
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visa.com.mt:2086?encryption=none&security=none&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V6_www.visa.com.mt_2086
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@qa.visamiddleeast.com:2095?encryption=none&security=none&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V7_qa.visamiddleeast.com_2095
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@usa.visa.com:443?encryption=none&security=tls&sni=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V8_usa.visa.com_443
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@myanmar.visa.com:8443?encryption=none&security=tls&sni=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V9_myanmar.visa.com_8443
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visa.com.tw:2053?encryption=none&security=tls&sni=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V10_www.visa.com.tw_2053
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visaeurope.ch:2083?encryption=none&security=tls&sni=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V11_www.visaeurope.ch_2083
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visa.com.br:2087?encryption=none&security=tls&sni=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V12_www.visa.com.br_2087
-vless://01514f3d-c413-4ca7-84d7-5b52077b99a2@www.visasoutheasteurope.com:2096?encryption=none&security=tls&sni=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&fp=randomized&type=ws&host=cf-frosty-rice-1f7b.tomatoannabela.workers.dev&path=%2F%3Fed%3D2560#CF_V13_www.visasoutheasteurope.com_2096
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cfnew-panel.pages.dev:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cfnew-panel.pages.dev:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cfnew-panel.pages.dev:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&allowInsecure=1&type=xhttp&host=cfnew-panel.pages.dev&path=%2F72bff6de&mode=stream-one#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-443-xhttp
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cloudflare.182682.xyz:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cloudflare.182682.xyz-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cloudflare.182682.xyz:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cloudflare.182682.xyz-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@speed.marisalnc.com:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#speed.marisalnc.com-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@speed.marisalnc.com:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#speed.marisalnc.com-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@freeyx.cloudflare88.eu.org:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#freeyx.cloudflare88.eu.org-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@freeyx.cloudflare88.eu.org:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#freeyx.cloudflare88.eu.org-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@bestcf.top:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#bestcf.top-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@bestcf.top:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#bestcf.top-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cdn.2020111.xyz:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cdn.2020111.xyz-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cdn.2020111.xyz:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cdn.2020111.xyz-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cfip.cfcdn.vip:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cfip.cfcdn.vip-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cfip.cfcdn.vip:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cfip.cfcdn.vip-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cf.0sm.com:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cf.0sm.com-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cf.0sm.com:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cf.0sm.com-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cf.090227.xyz:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cf.090227.xyz-443-WS-TLS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cf.090227.xyz:80?encryption=none&security=none&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cf.090227.xyz-80-WS
-vless://72bff6de-fa59-411f-85fa-8c521a8ac9c4@cf.zhetengsha.eu.org:443?encryption=none&security=tls&sni=cfnew-panel.pages.dev&fp=chrome&type=ws&host=cfnew-panel.pages.dev&path=%2F%3Fed%3D2048#cf.zhetengsha.eu.org-443-WS-TLS
-vless://738e62ed-2969-4397-98bb-550d9a2c8808@157.245.32.246:443?type=grpc&encryption=none&serviceName=&authority=&security=none#United Kingdom D-88
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@164.92.146.48:443?type=ws&encryption=none&path=%2F&host=&security=none#Netherlands D-85
-vless://738e62ed-2969-4397-98bb-550d9a2c8808@164.90.191.148:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D-93
-vless://2484d19c-4d58-479b-9b9d-6cfbf2b37d40@165.232.100.21:443?type=grpc&encryption=none&serviceName=&authority=&security=none#United Kingdom D-77
-vless://2484d19c-4d58-479b-9b9d-6cfbf2b37d40@165.22.113.248:443?type=grpc&encryption=none&serviceName=&authority=&security=none#United Kingdom D-82
-vless://738e62ed-2969-4397-98bb-550d9a2c8808@134.122.100.142:443?type=grpc&encryption=none&serviceName=&authority=&security=none#United Kingdom D-83
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@46.101.21.232:443?type=ws&encryption=none&path=%2F&host=&security=none#United Kingdom D-81
-vless://2484d19c-4d58-479b-9b9d-6cfbf2b37d40@167.172.45.50:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Netherlands D-92
-vless://738e62ed-2969-4397-98bb-550d9a2c8808@165.22.114.182:443?type=grpc&encryption=none&serviceName=&authority=&security=none#United Kingdom D-95
-vless://2484d19c-4d58-479b-9b9d-6cfbf2b37d40@178.62.46.182:443?type=grpc&encryption=none&serviceName=&authority=&security=none#United Kingdom D-71
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@164.90.203.229:443?type=ws&encryption=none&path=%2F&host=&security=none#Netherlands D-88
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@167.99.86.0:443?type=ws&encryption=none&path=%2F&host=&security=none#United Kingdom D-94
-vless://738e62ed-2969-4397-98bb-550d9a2c8808@161.35.208.137:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D-97
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@188.166.13.149:443?type=ws&encryption=none&path=%2F&host=&security=none#Netherlands D-81
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@178.128.248.52:443?type=ws&encryption=none&path=%2F&host=&security=none#Netherlands D-78
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@165.22.19.166:443?type=ws&encryption=none&path=%2F&host=&security=none#Germany D-98
-vless://738e62ed-2969-4397-98bb-550d9a2c8808@165.227.159.212:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D-89
-vless://2484d19c-4d58-479b-9b9d-6cfbf2b37d40@167.172.173.137:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany D-89
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@46.101.95.131:443?type=ws&encryption=none&path=%2F&host=&security=none#United Kingdom D-71
-vless://b7f3b0bc-9173-4b5d-8bf9-3f274e70ea1e@64.225.76.111:443?type=ws&encryption=none&path=%2F&host=&security=none#Netherlands D-97
+vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%2540V2RFA➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖لطفا
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed%3D2048&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#%2540V2RFA➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖لطفا
+vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f4b4a6365558ea2e#%2540FarazV2RFA➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖لطفا
+vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=active.app-browser.org#%2540V2RFA➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖لطفا
+vless://7e9d6c96-bfe6-4051-b5b2-e5c7c235f6a5@deu-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F%3Fed%3D2048&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#%2540V2RFA➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖لطفا
+vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&encryption=none&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d4d39c5f8688dfe2#%2540V2RFA➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖لطفا
+vless://72763ff4-51c0-4985-af1e-5931f1c53cca@facelessvoid.fonixapp.org:56546?security=reality&encryption=none&pbk=j-RXSyW0NwhPe_fLBRK0wpxM80gCEy5EO28pN-g0ZUc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=9ec128#%2540V2RFA➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖لطفا
